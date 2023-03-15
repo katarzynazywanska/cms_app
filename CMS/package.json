@@ -4,6 +4,7 @@
     "description": "CMS app",
     "main": "application.js",
     "scripts": {
+        "preinstall": "npm i nodemon -g",
         "start": "nodemon"
     },
     "repository": {
